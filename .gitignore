@@ -12,7 +12,7 @@
 ######################
 # VS Generated Files #
 ######################
-**/.VC.db
-**/.suo
-**/.VC.opendb
-**/.sln
+**/*.VC.db
+**/*.suo
+**/*.VC.opendb
+**/*.sln
